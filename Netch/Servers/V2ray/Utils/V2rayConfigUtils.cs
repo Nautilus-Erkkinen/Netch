@@ -65,8 +65,8 @@ namespace Netch.Servers.V2ray.Utils
                     outboundTag = "block"
                 };
 
-                if (mode.Type is 0 or 1 or 2)
-                    blockRuleObject.ip.Add("geoip:private");
+                //if (mode.Type is 0 or 1 or 2)
+                    //blockRuleObject.ip.Add("geoip:private");
 
                 static bool CheckRuleItem(ref RulesItem rulesItem)
                 {
