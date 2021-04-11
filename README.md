@@ -10,7 +10,7 @@
 [文档网站](https://netch.org/) [常见问题](https://netch.org/#/docs/zh-CN/faq) 
 
 [中文说明](README.zh-CN.md)
-
+【自用版本，去除了不能访问目标服务器内网IP的限制】
 Game network accelerator
 
 ## TOC
